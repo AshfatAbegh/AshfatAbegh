@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshfatAbegh
--    I’m an undergraduate student of Computer Science and Engineering (CSE) in 
+-    I’m an undergraduate student of Computer Science and Engineering (CSE) at 
      American International University-Bangladesh(AIUB)
 - 🌱 I have hands on working experience in Web Developmment and SQA Automation 
 - 💞️ My interest areas also include Blockchain and Machine Learning  
