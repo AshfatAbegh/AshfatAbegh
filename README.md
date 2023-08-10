@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshfatAbegh !!
--    I’ve completed my Bachelor of Computer Science and Engineering (CSE) from American International University-Bangladesh(AIUB)
+-    I’ve completed my Bachelor of Science in Computer Science and Engineering (CSE) from American International University-Bangladesh(AIUB)
 - 🌱 I have hands-on working experience in SQA Automation, Manual Testing and Web Development 
 - 💞️ My areas of interest also include: Cyber Security and Machine Learning
 - 📫 You can reach me through LinkedIn - https://www.linkedin.com/in/ashfat-al-rashid-297852175/
