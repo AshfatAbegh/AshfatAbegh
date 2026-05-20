@@ -63,7 +63,7 @@ I specialize in **Software Testing and Quality Assurance**, with hands-on experi
 * **Version Control:** Git, GitHub
 * **CI/CD Pipeline:** Github Actions, Jenkins(Familiar)
 * **Operating System:** Linux, MacOS, Windows
-*  **Concepts:** SDLC, STLC
+* **Concepts:** OOP, SDLC, STLC
 
 ---
 
