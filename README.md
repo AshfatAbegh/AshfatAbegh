@@ -31,7 +31,8 @@ I specialize in **Software Testing and Quality Assurance**, with hands-on experi
 
 * Playwright & Selenium Web Automation
 * API Automation using Postman and Rest-Assured
-* Test Script Development
+* CI/CD for automated Build and Deploy
+* Docker Containerization
 
 ### 🔹 Performance Testing
 
