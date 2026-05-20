@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashfat Al Rashid
 
-🎯 **Software Quality Assurance (SQA) Engineer | SDET**
+🎯 **Software Quality Assurance (SQA) Engineer | SDET | AI powered QA**
 
 Passionate about ensuring software reliability, performance, and quality through structured testing and automation.
 
