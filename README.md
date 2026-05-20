@@ -34,6 +34,12 @@ I specialize in **Software Testing and Quality Assurance**, with hands-on experi
 * CI/CD for automated Build and Deploy
 * Docker Containerization
 
+### 🔹 API Testing
+
+* REST API Testing
+* Postman Collections
+* JSON Validation & Response Handling
+
 ### 🔹 Performance Testing
 
 * Load Testing using Apache JMeter
@@ -41,11 +47,10 @@ I specialize in **Software Testing and Quality Assurance**, with hands-on experi
 * Test Plan Design & Execution
 * Result Analysis & Reporting
 
-### 🔹 API Testing
-
-* REST API Testing
-* Postman Collections
-* JSON Validation & Response Handling
+### 🔹 Database Testing
+* Perform data validation for MySQL, PostgreSQL, and Microsoft SQL Server.
+* Validate that data is stored properly in the database and execute SQL queries to retrieve and verify the data.
+* Modify data within the database to observe and validate database behavior under different scenarios.
 
 ---
 
