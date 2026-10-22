@@ -2,7 +2,7 @@
 
 🎯 **Software Quality Assurance (SQA) Engineer | SDET | AI powered QA**
 
-Passionate about ensuring software reliability, performance, and quality through structured testing and automation.
+Passionate about ensuring software reliability, performance, and quality through structured testing, automation and AI integration.
 
 ---
 
