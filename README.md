@@ -67,7 +67,7 @@ I specialize in **Software Testing and Quality Assurance**, with hands-on experi
 * **Project Management & Bug Tracking:** Jira, Clickup
 * **Version Control:** Git, GitHub
 * **CI/CD Pipeline:** Github Actions, Jenkins(Familiar)
-* AI Tools:** Claude Code, Claude Agents, Claude Skills, MCP Server, Kiro, Antigravity, Warp, NotebookLM
+* **AI Tools:** Claude Code, Claude Agents, Claude Skills, MCP Server, Kiro, Antigravity, Warp, NotebookLM
 * **Operating System:** Linux, MacOS, Windows
 * **Concepts:** OOP, SDLC, STLC
 
